@@ -1,4 +1,4 @@
-*McDonalds
-*Harveys
-*Burger King
-*Dairy Queen
+* McDonalds
+* Harveys
+* Burger King
+* Dairy Queen
